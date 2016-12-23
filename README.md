@@ -1,4 +1,4 @@
-My Very first calculator program! 
+Writing my very first calculator program! 
 
 - Written in Python 3
 - Uses the Tkinter module for GUI development 
