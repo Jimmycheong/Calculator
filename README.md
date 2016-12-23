@@ -21,3 +21,7 @@ Potential Future Updates:
 
 
 Thanks for reading! 
+
+Useful weblinks: 
+http://effbot.org/tkinterbook/tkinter-events-and-bindings.htm 
+http://pillow.readthedocs.io/en/3.4.x/reference/ImageTk.html 
